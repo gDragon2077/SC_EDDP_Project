@@ -13,4 +13,4 @@ Modelul este realizat pentru materia **Ecuatii Diferentiale si Derivate Partiale
 Modelul analizat este:
 
 ```math
-P'(t) = a(V - P(t)), \quad P(0) = P_0
+y'(t) = a(V - y(t)), \quad P(0) = P_0
